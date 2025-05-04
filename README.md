@@ -52,53 +52,25 @@ These are few examples of our search queries:
 
 ### <h3 align="center"><span style="color:#F05A28">Google</span>
 
-<p float="left">
-  <img src="trainningimages/google_dataset_1000/frog_raw/frog_raw_0001.jpg" width="100" height="100"/>
-  <img src="trainningimages/google_dataset_1000/bird_raw/bird_raw_0002.jpg" width="100" height="100"/>
-  <img src="trainningimages/google_dataset_1000/cat_raw/cat_raw_0100.jpg" width="100" height="100"/>
+| ![frog](trainningimages/google_dataset_1000/frog_raw/frog_raw_0001.jpg) | ![bird](trainningimages/google_dataset_1000/bird_raw/bird_raw_0002.jpg) | ![cat](trainningimages/google_dataset_1000/cat_raw/cat_raw_0100.jpg) | ![dog](trainningimages/google_dataset_1000/dog_raw/dog_raw_0097.jpg) | ![deer](trainningimages/google_dataset_1000/deer_raw/deer_raw_0009.jpg) |
+|:--:|:--:|:--:|:--:|:--:|
+| frog | bird | cat | dog | deer |
 
-  <img src="trainningimages/google_dataset_1000/dog_raw/dog_raw_0097.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/google_dataset_1000/deer_raw/deer_raw_0009.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/google_dataset_1000/horse_raw/horse_raw_0018.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/google_dataset_1000/truck_raw/truck_raw_0016.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/google_dataset_1000/ship_raw/ship_raw_0022.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/google_dataset_1000/automobile_raw/automobile_raw_0045.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/google_dataset_1000/airplane_raw/airplane_raw_0004.jpg" width="100" height="100"/>
-
-</p>
+| ![horse](trainningimages/google_dataset_1000/horse_raw/horse_raw_0018.jpg) | ![truck](trainningimages/google_dataset_1000/truck_raw/truck_raw_0016.jpg) | ![ship](trainningimages/google_dataset_1000/ship_raw/ship_raw_0022.jpg) | ![automobile](trainningimages/google_dataset_1000/automobile_raw/automobile_raw_0045.jpg) | ![airplane](trainningimages/google_dataset_1000/airplane_raw/airplane_raw_0004.jpg) |
+|:--:|:--:|:--:|:--:|:--:|
+| horse | truck | ship | automobile | airplane |
 
 
 ### <h3 align="center"> <span style="color:#F05A28">Bing</span>
 
-<p float="left">
+| ![airplane](trainningimages/bing_dataset_1000/airplane/airplane_0093.jpg) | ![automobile](trainningimages/bing_dataset_1000/automobile/automobile_0003.jpg) | ![bird](trainningimages/bing_dataset_1000/bird/bird_0060.jpg) | ![cat](trainningimages/bing_dataset_1000/cat/cat_0050.jpg) | ![deer](trainningimages/bing_dataset_1000/deer/deer_0003.jpg) |
+|:--:|:--:|:--:|:--:|:--:|
+| airplane | automobile | bird | cat | deer |
 
-  <img src="trainningimages/bing_dataset_1000/airplane/airplane_0093.jpg" width="100" height="100"/>
+| ![dog](trainningimages/bing_dataset_1000/dog/dog_0001.jpg) | ![frog](trainningimages/bing_dataset_1000/frog/frog_0002.jpg) | ![horse](trainningimages/bing_dataset_1000/horse/horse_0009.jpg) | ![ship](trainningimages/bing_dataset_1000/ship/ship_0007.jpg) | ![truck](trainningimages/bing_dataset_1000/truck/truck_0025.jpg) |
+|:--:|:--:|:--:|:--:|:--:|
+| dog | frog | horse | ship | truck |
 
-  <img src="trainningimages/bing_dataset_1000/automobile/automobile_0003.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/bird/bird_0060.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/cat/cat_0050.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/deer/deer_0003.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/dog/dog_0001.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/frog/frog_0002.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/horse/horse_0009.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/ship/ship_0007.jpg" width="100" height="100"/>
-
-  <img src="trainningimages/bing_dataset_1000/truck/truck_0025.jpg" width="100" height="100"/>
-
-</p>
 
 <h2 align="center"><span style="color:#005A8B">Stable Diffusion Generate Example Queries</span></h2>
 
