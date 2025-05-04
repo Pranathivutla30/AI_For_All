@@ -52,11 +52,11 @@ These are few examples of our search queries:
 
 ### <h3 align="center"><span style="color:#F05A28">Google</span>
 
-| ![frog](trainningimages/google_dataset_1000/frog_raw/frog_raw_0001.jpg) | ![bird](trainningimages/google_dataset_1000/bird_raw/bird_raw_0002.jpg) | ![cat](trainningimages/google_dataset_1000/cat_raw/cat_raw_0100.jpg) | ![dog](trainningimages/google_dataset_1000/dog_raw/dog_raw_0097.jpg) | ![deer](trainningimages/google_dataset_1000/deer_raw/deer_raw_0009.jpg) |
+| <img src="trainningimages/google_dataset_1000/frog_raw/frog_raw_0001.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/bird_raw/bird_raw_0002.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/cat_raw/cat_raw_0100.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/dog_raw/dog_raw_0097.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/deer_raw/deer_raw_0009.jpg" width="100" height="100"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | frog | bird | cat | dog | deer |
 
-| ![horse](trainningimages/google_dataset_1000/horse_raw/horse_raw_0018.jpg) | ![truck](trainningimages/google_dataset_1000/truck_raw/truck_raw_0016.jpg) | ![ship](trainningimages/google_dataset_1000/ship_raw/ship_raw_0022.jpg) | ![automobile](trainningimages/google_dataset_1000/automobile_raw/automobile_raw_0045.jpg) | ![airplane](trainningimages/google_dataset_1000/airplane_raw/airplane_raw_0004.jpg) |
+| <img src="trainningimages/google_dataset_1000/horse_raw/horse_raw_0018.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/truck_raw/truck_raw_0016.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/ship_raw/ship_raw_0022.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/automobile_raw/automobile_raw_0045.jpg" width="100" height="100"/> | <img src="trainningimages/google_dataset_1000/airplane_raw/airplane_raw_0004.jpg" width="100" height="100"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | horse | truck | ship | automobile | airplane |
 
