@@ -63,13 +63,14 @@ These are few examples of our search queries:
 
 ### <h3 align="center"> <span style="color:#F05A28">Bing</span>
 
-| ![airplane](trainningimages/bing_dataset_1000/airplane/airplane_0093.jpg) | ![automobile](trainningimages/bing_dataset_1000/automobile/automobile_0003.jpg) | ![bird](trainningimages/bing_dataset_1000/bird/bird_0060.jpg) | ![cat](trainningimages/bing_dataset_1000/cat/cat_0050.jpg) | ![deer](trainningimages/bing_dataset_1000/deer/deer_0003.jpg) |
+| <img src="trainningimages/bing_dataset_1000/airplane/airplane_0093.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/automobile/automobile_0003.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/bird/bird_0060.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/cat/cat_0050.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/deer/deer_0003.jpg" width="100" height="100"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | airplane | automobile | bird | cat | deer |
 
-| ![dog](trainningimages/bing_dataset_1000/dog/dog_0001.jpg) | ![frog](trainningimages/bing_dataset_1000/frog/frog_0002.jpg) | ![horse](trainningimages/bing_dataset_1000/horse/horse_0009.jpg) | ![ship](trainningimages/bing_dataset_1000/ship/ship_0007.jpg) | ![truck](trainningimages/bing_dataset_1000/truck/truck_0025.jpg) |
+| <img src="trainningimages/bing_dataset_1000/dog/dog_0001.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/frog/frog_0002.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/horse/horse_0009.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/ship/ship_0007.jpg" width="100" height="100"/> | <img src="trainningimages/bing_dataset_1000/truck/truck_0025.jpg" width="100" height="100"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | dog | frog | horse | ship | truck |
+
 
 
 <h2 align="center"><span style="color:#005A8B">Stable Diffusion Generate Example Queries</span></h2>
