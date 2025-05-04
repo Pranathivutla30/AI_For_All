@@ -332,39 +332,38 @@ We’d like to thank **Professor Yinxin Wan** and **Professor Wei Ding** at UMas
 
 ## <h2 align="center"> <span style="color:#005A8B"> Follow Us </span>
 
-
 <div align="center">
 
-  <div style="display: inline-block; margin: 15px; text-align: center;">
-    <a href="https://www.linkedin.com/in/raminguyen/">
-      <img src="teamimages/ramihuunguyen.png" width="100" height="100" style="border-radius: 50%;"/><br>
-      <span>Rami Huu Nguyen</span>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 15px; text-align: center;">
-    <a href="https://www.linkedin.com/in/lakshmi-pranathi-vutla30/">
-      <img src="teamimages/LakshmiPranathiVutla.png" width="100" height="100" style="border-radius: 50%;"/><br>
-      <span>Lakshmi Pranathi Vutla</span>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 15px; text-align: center;">
-    <a href="https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/">
-      <img src="teamimages/Avanith_Kanamarlapudi.png" width="100" height="100" style="border-radius: 50%;"/><br>
-      <span>Avanith Kanamarlapudi</span>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 15px; text-align: center;">
-    <a href="https://www.linkedin.com/in/shauna-murray-6b3096201/">
-      <img src="teamimages/Shauna_Murray.png" width="100" height="100" style="border-radius: 50%;"/><br>
-      <span>Shauna Murray</span>
-    </a>
-  </div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/raminguyen/">
+        <img src="teamimages/ramihuunguyen.png" width="100" height="100" style="border-radius: 50%;"/><br>
+        <strong>Rami Huu Nguyen</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lakshmi-pranathi-vutla30/">
+        <img src="teamimages/LakshmiPranathiVutla.png" width="100" height="100" style="border-radius: 50%;"/><br>
+        <strong>Lakshmi Pranathi Vutla</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/avanith-kanamarlapudi-8aa081204/">
+        <img src="teamimages/Avanith_Kanamarlapudi.png" width="100" height="100" style="border-radius: 50%;"/><br>
+        <strong>Avanith Kanamarlapudi</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/shauna-murray-6b3096201/">
+        <img src="teamimages/Shauna_Murray.png" width="100" height="100" style="border-radius: 50%;"/><br>
+        <strong>Shauna Murray</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 <p align="center">
   #AIforAll #UMassBoston #Innovation #2025 #Rami #Avanith #Pranathi #Shauna
