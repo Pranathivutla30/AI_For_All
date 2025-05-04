@@ -4,7 +4,7 @@
 If you're curious about how knowledge distillation can boost model performance using real and generated data, you're in the right place — this project is made for you.
 
 
-We are a research team at UMass Boston from UMass Boston. We are Can Do Crew Team. We are exploring how **knowledge distillation** helps student models perform better when trained on a mix of real images and AI-generated images data. Our study focuses on 10 object classes and evaluates how training size, data sources, and augmentation impact model performance.
+We are a research team at UMass Boston. We are Can Do Crew Team. We are exploring how **knowledge distillation** helps student models perform better when trained on a mix of real images and AI-generated images data. Our study focuses on 10 object classes and evaluates how training size, data sources, and augmentation impact model performance.
 
 
 ## <h2 align="center"><span style="color:#005A8B"> What’s This Project About?
