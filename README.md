@@ -130,59 +130,14 @@ These are few examples of our search queries:
 
 ### <h3 align="center"> <span style="color:#F05A28">Stable Diffusion v2</span>
 
-<p align="center">
+| ![airplane](trainningimages/gen_ai_1000_v2/airplane/airplane_00001.jpg) | ![automobile](trainningimages/gen_ai_1000_v2/automobile/automobile_00001.jpg) | ![bird](trainningimages/gen_ai_1000_v2/bird/bird_00005.jpg) | ![cat](trainningimages/gen_ai_1000_v2/cat/cat_00001.jpg) | ![deer](trainningimages/gen_ai_1000_v2/deer/deer_00006.jpg) |
+|:--:|:--:|:--:|:--:|:--:|
+| airplane | automobile | bird | cat | deer |
 
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/airplane/airplane_00001.jpg" width="100" height="100"/><br>
-    <span>airplane</span>
-  </div>
+| ![dog](trainningimages/gen_ai_1000_v2/dog/dog_00095.jpg) | ![frog](trainningimages/gen_ai_1000_v2/frog/frog_00035.jpg) | ![horse](trainningimages/gen_ai_1000_v2/horse/horse_00080.jpg) | ![ship](trainningimages/gen_ai_1000_v2/ship/ship_00001.jpg) | ![truck](trainningimages/gen_ai_1000_v2/truck/truck_00003.jpg) |
+|:--:|:--:|:--:|:--:|:--:|
+| dog | frog | horse | ship | truck |
 
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/automobile/automobile_00001.jpg" width="100" height="100"/><br>
-    <span>automobile</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/bird/bird_00005.jpg" width="100" height="100"/><br>
-    <span>bird</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/cat/cat_00001.jpg" width="100" height="100"/><br>
-    <span>cat</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/deer/deer_00006.jpg" width="100" height="100"/><br>
-    <span>deer</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/dog/dog_00095.jpg" width="100" height="100"/><br>
-    <span>dog</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/frog/frog_00035.jpg" width="100" height="100"/><br>
-    <span>frog</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/horse/horse_00080.jpg" width="100" height="100"/><br>
-    <span>horse</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/ship/ship_00001.jpg" width="100" height="100"/><br>
-    <span>ship</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:8px;">
-    <img src="trainningimages/gen_ai_1000_v2/truck/truck_00003.jpg" width="100" height="100"/><br>
-    <span>truck</span>
-  </div>
-
-</p>
 
 
 ### <h3 align="center"> <span style="color:#F05A28">Stable Diffusion (Diffusers)</span>
