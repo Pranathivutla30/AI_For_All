@@ -251,111 +251,60 @@ Our most exciting insights:
 
 ### <h3 align="center"> <span style="color:#F05A28"> Failure Examples - Stable Fushion V2
 
-<p float="left" align="middle">
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/airplane/airplane_00002.jpg" width="100" height="100"/><br>
-    <span>airplane</span>
-  </div>
+<div align="center">
 
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/automobile/automobile_00013.jpg" width="100" height="100"/><br>
-    <span>automobile</span>
-  </div>
+<table>
+  <tr>
+    <td><img src="trainningimages/gen_ai_1000_v2/airplane/airplane_00002.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/automobile/automobile_00013.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/bird/bird_00040.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/cat/cat_00062.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/deer/deer_00010.jpg" width="100" height="100"/></td>
+  </tr>
+  <tr align="center">
+    <td>airplane</td><td>automobile</td><td>bird</td><td>cat</td><td>deer</td>
+  </tr>
+  <tr>
+    <td><img src="trainningimages/gen_ai_1000_v2/dog/dog_00068.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/frog/frog_00050.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/horse/horse_00006.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/ship/ship_00006.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/gen_ai_1000_v2/truck/truck_00007.jpg" width="100" height="100"/></td>
+  </tr>
+  <tr align="center">
+    <td>dog</td><td>frog</td><td>horse</td><td>ship</td><td>truck</td>
+  </tr>
+</table>
 
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/bird/bird_00040.jpg" width="100" height="100"/><br>
-    <span>bird</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/cat/cat_00062.jpg" width="100" height="100"/><br>
-    <span>cat</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/deer/deer_00010.jpg" width="100" height="100"/><br>
-    <span>deer</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/dog/dog_00068.jpg" width="100" height="100"/><br>
-    <span>dog</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/frog/frog_00050.jpg" width="100" height="100"/><br>
-    <span>frog</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/horse/horse_00006.jpg" width="100" height="100"/><br>
-    <span>horse</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/ship/ship_00006.jpg" width="100" height="100"/><br>
-    <span>ship</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/gen_ai_1000_v2/truck/truck_00007.jpg" width="100" height="100"/><br>
-    <span>truck</span>
-  </div>
-</p>
+</div>
 
 ### <h3 align="center"> <span style="color:#F05A28"> Failure Examples - Bing
+<div align="center">
 
-<p float="left" align="middle">
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/airplane/airplane_0005.jpg" width="100" height="100"/><br>
-    <span>airplane</span>
-  </div>
+<table>
+  <tr>
+    <td><img src="trainningimages/bing_dataset_1000/airplane/airplane_0005.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/automobile/automobile_0002.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/bird/bird_0004.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/cat/cat_0007.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/deer/deer_0007.jpg" width="100" height="100"/></td>
+  </tr>
+  <tr align="center">
+    <td>airplane</td><td>automobile</td><td>bird</td><td>cat</td><td>deer</td>
+  </tr>
+  <tr>
+    <td><img src="trainningimages/bing_dataset_1000/dog/dog_0049.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/frog/frog_0061.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/horse/horse_0009.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/ship/ship_0005.jpg" width="100" height="100"/></td>
+    <td><img src="trainningimages/bing_dataset_1000/truck/truck_0005.jpg" width="100" height="100"/></td>
+  </tr>
+  <tr align="center">
+    <td>dog</td><td>frog</td><td>horse</td><td>ship</td><td>truck</td>
+  </tr>
+</table>
 
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/automobile/automobile_0002.jpg" width="100" height="100"/><br>
-    <span>automobile</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/bird/bird_0004.jpg" width="100" height="100"/><br>
-    <span>bird</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/cat/cat_0007.jpg" width="100" height="100"/><br>
-    <span>cat</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/deer/deer_0007.jpg" width="100" height="100"/><br>
-    <span>deer</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/dog/dog_0049.jpg" width="100" height="100"/><br>
-    <span>dog</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/frog/frog_0061.jpg" width="100" height="100"/><br>
-    <span>frog</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/horse/horse_0009.jpg" width="100" height="100"/><br>
-    <span>horse</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/ship/ship_0005.jpg" width="100" height="100"/><br>
-    <span>ship</span>
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin:5px;">
-    <img src="trainningimages/bing_dataset_1000/truck/truck_0005.jpg" width="100" height="100"/><br>
-    <span>truck</span>
-  </div>
-</p>
+</div>
 
 
 ## <h2 align="center"> <span style="color:#005A8B"> Future Work
