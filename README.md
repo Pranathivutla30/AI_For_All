@@ -1,5 +1,5 @@
 
-# <h1 align="center"> <span style="color:#005A8B"> Distilling Convolutional Neural Network Performance from Multiple Data Sources
+# <h1 align="center"> <span style="color:#005A8B"> 🟦 Distilling Convolutional Neural Network Performance from Multiple Data Sources
 
 If you're curious about how knowledge distillation can boost model performance using real and generated data, you're in the right place — this project is made for you.
 
@@ -7,7 +7,7 @@ If you're curious about how knowledge distillation can boost model performance u
 We are a research team at UMass Boston. We are Can Do Crew Team. We are exploring how **knowledge distillation** helps student models perform better when trained on a mix of real images and AI-generated images data. Our study focuses on 10 object classes and evaluates how training size, data sources, and augmentation impact model performance.
 
 
-## <h2 align="center"><span style="color:#005A8B"> What’s This Project About?
+## <h2 align="center"><span style="color:#005A8B"> 🟦 What’s This Project About?
 
 Our goal is to investigate how *model distillation* can improve learning efficiency for image classification. In simple words, we train a **student model** to mimic the behavior of a powerful **teacher model**, hoping that the student can learn faster and perform better—even with less data.
 
@@ -18,7 +18,7 @@ This main idea is important when we want to:
 * Save computation but still keep high accuracy
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Before We Started
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Before We Started
 
 We built a **teacher model** trained to classify 10 visual classes using CIFAR datasets. Below are example images (1 per class), and this model serves as the ground truth for guiding all student models. _**Please note:** While we use the CIFAR dataset to train the teacher model, we intentionally avoid using CIFAR for the student models to prevent bias and ensure a more realistic evaluation._
 
@@ -30,7 +30,7 @@ We asked ourselves:
 👉 <em>How well can student models learn from the teacher under different dataset conditions?</em>
 </blockquote>
 
-## <h2 align="center"> <span style="color:#005A8B"> Google + Bing Search Example Queries </span>
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Google + Bing Search Example Queries </span>
 
 These are few examples of our search queries:
 
@@ -48,9 +48,9 @@ These are few examples of our search queries:
   
 </p>
 
-## <h2 align="center"> <span style="color:#005A8B"> Trainning Examples </span>
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Trainning Examples </span>
 
-### <h3 align="center"><span style="color:#F05A28">Google</span>
+### <h3 align="center"><span style="color:#F05A28"> Google</span>
 
 <div align="center">
 
@@ -111,7 +111,7 @@ These are few examples of our search queries:
 
 
 
-<h2 align="center"><span style="color:#005A8B">Stable Diffusion Generate Example Queries</span></h2>
+<h2 align="center"><span style="color:#005A8B"> 🟦 Stable Diffusion Generate Example Queries</span></h2>
 
 
 <div align="center">
@@ -201,7 +201,7 @@ These are few examples of our search queries:
 
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Dataset Overview
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Dataset Overview
 
 We prepared three major sources of training data:
 
@@ -218,7 +218,7 @@ We prepared three major sources of training data:
 Each data source brings its own quality, variation, and bias. We tested how they affect student model learning.
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Our Experiments
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Our Experiments
 
 We ran **13 experiments** across 3 dataset sizes:
 
@@ -231,7 +231,7 @@ We ran **13 experiments** across 3 dataset sizes:
 All models was evaluated on **real test images** from Google and Bing only.
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Key Results (Summary)
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Key Results (Summary)
 
 Our most exciting insights:
 
@@ -248,7 +248,7 @@ Our most exciting insights:
 </div>
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Limitations
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Limitations
 
 * We only used 10 object classes; real-world applications like cybersecurity involve far more complexity.
 * Most test data was collected from Google/Bing; synthetic images varied in realism.
@@ -313,7 +313,7 @@ Our most exciting insights:
 </div>
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Future Work
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Future Work
 
 * Expand to **more challenging categories** and **larger label sets**
 
@@ -322,7 +322,7 @@ Our most exciting insights:
 * Experiment with **fine-tuned diffusion models** for higher-quality synthetic generation.
 
 
-## <h2 align="center"> <span style="color:#005A8B"> How We Used AI in This Project
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 How We Used AI in This Project
 
 Everyone in the team used AI tools to support different parts:
 
@@ -332,11 +332,11 @@ Everyone in the team used AI tools to support different parts:
 * **Shauna** – Prompted ChatGPT to help plan poster layout and chart styling
 
 
-## <h2 align="center"> <span style="color:#005A8B"> Acknowledgements</span>
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Acknowledgements</span>
 
 We’d like to thank **Professor Yinxin Wan** and **Professor Wei Ding** at UMass Boston for their continuous support, guidance, and encouragement throughout this project. Your mentorship helped shape our journey in the #**AIforAll** class at UMass Boston. All of our contributions were made in support of this class.
 
-## <h2 align="center"> <span style="color:#005A8B"> Meet the Team </span>
+## <h2 align="center"> <span style="color:#005A8B"> 🟦 Meet the Team </span>
 
 <div align="center">
 
