@@ -244,7 +244,7 @@ Our most exciting insights:
 ## 📊 Scratch vs. Knowledge Distillation Accuracy
 
 <div align="center">
-  <img src="scratch_vs_kd_accuracy.png" width="1000" height ="300" dpi="1000"/>
+  <img src="scratch_vs_kd_accuracy.png" width="1200" dpi="1000"/>
 </div>
 
 
