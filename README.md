@@ -373,5 +373,6 @@ We’d like to thank **Professor Yinxin Wan** and **Professor Wei Ding** at UMas
 
 <p align="center">
 
-  #AIforAll #UMassBoston #Innovation #2025 #Rami #Avanith #Pranathi #Shauna
+                #AIforAll #UMassBoston #Innovation #2025 #Rami #Avanith #Pranathi #Shauna
+  
 </p>
