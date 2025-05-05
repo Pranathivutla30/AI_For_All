@@ -222,9 +222,9 @@ Each data source brings its own quality, variation, and bias. We tested how they
 
 We ran **13 experiments** across 3 dataset sizes:
 
-| Dataset Size | Training Samples | Test Samples | Notes                           |
+| Dataset Size | Training Samples | Test Samples | Additional Notes                |
 | ------------ | ---------------- | ------------ | ------------------------------- |
-| Small        | 800              | 200          | Augmented with color + rotation |
+| Small        | 800              | 200          | With color/rotation augmentation| 
 | 5x           | 4000             | 1000         | Combined real + synthetic       |
 | 10x          | 8000             | 2000         | Large scale, diverse samples    |
 
