@@ -332,11 +332,11 @@ Everyone in the team used AI tools to support different parts:
 * **Shauna** – Prompted ChatGPT to help plan poster layout and chart styling
 
 
-## <h2 align="center"> <span style="color:#005A8B">Team & Acknowledgements</span>
+## <h2 align="center"> <span style="color:#005A8B"> Acknowledgements</span>
 
 We’d like to thank **Professor Yinxin Wan** and **Professor Wei Ding** at UMass Boston for their continuous support, guidance, and encouragement throughout this project. Your mentorship helped shape our journey in the #**AIforAll** class at UMass Boston. All of our contributions were made in support of this class.
 
-## <h2 align="center"> <span style="color:#005A8B"> Follow Us </span>
+## <h2 align="center"> <span style="color:#005A8B"> Meet the Team </span>
 
 <div align="center">
 
@@ -372,5 +372,6 @@ We’d like to thank **Professor Yinxin Wan** and **Professor Wei Ding** at UMas
 </div>
 
 <p align="center">
+
   #AIforAll #UMassBoston #Innovation #2025 #Rami #Avanith #Pranathi #Shauna
 </p>
