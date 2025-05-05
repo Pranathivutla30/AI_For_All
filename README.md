@@ -209,11 +209,12 @@ We prepared three major sources of training data:
 
 * **Bing Images**
 
-* **Stable Diffusion** (using both SD v2 and Hugging Face Diffusers)
+* **Stable Diffusion** (using both SD v2 and Hugging Face Medium Diffusers 3)
 
-> ✅ You can explore our full training samples [here](#)
+> ✅ You can explore our full training samples under our ALLresults folder.
 
-> ✅ We also show a few of our **text prompts and search queries** used to build the dataset.
+> ✅ We also include our **text prompts and search queries** used to build the dataset in our script under our download_images_google_bing and generateAIimage folder.
+
 
 Each data source brings its own quality, variation, and bias. We tested how they affect student model learning.
 
