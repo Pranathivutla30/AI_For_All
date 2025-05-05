@@ -241,6 +241,12 @@ Our most exciting insights:
 
 > 🔁 *Knowledge distillation works best at scale, especially with consistent, high-quality data.*
 
+## 📊 Scratch vs. Knowledge Distillation Accuracy
+
+<div align="center">
+  <img src="scratch_vs_kd_accuracy.png" width="1000" height ="300" dpi="1000"/>
+</div>
+
 
 ## <h2 align="center"> <span style="color:#005A8B"> Limitations
 
