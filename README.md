@@ -2,10 +2,14 @@
 # <h1 align="center"> <span style="color:#005A8B"> 🟦 Distilling Convolutional Neural Network Performance from Multiple Data Sources
 
 If you're curious about how knowledge distillation can boost model performance using real and generated data, you're in the right place — this project is made for you.
-
+ <p align="center">
+  🔗 <a href="https://www.canva.com/design/DAGmhUzQk50/6-pBzEIfbveMZknUFas-7w/edit?utm_content=DAGmhUzQk50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><strong>View Our Presentation</strong></a> |
+  <a href="https://raminguyen.github.io/AI_For_All/AI%20CyberSecurity%20UI/" target="_blank"><strong>Website</strong></a> |
+  <a href="https://www.canva.com/design/DAGmfQ3T340/ku_qS9AEqFi8vYHbqu_0Ew/edit?utm_content=DAGmfQ3T340&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><strong>Poster</strong></a> |
+  <a href="https://github.com/raminguyen/AI_For_All" target="_blank"><strong>GitHub</strong></a>
+</p>
 
 We are a research team at UMass Boston. We are Can Do Crew Team. We are exploring how **knowledge distillation** helps student models perform better when trained on a mix of real images and AI-generated images data. Our study focuses on 10 object classes and evaluates how training size, data sources, and augmentation impact model performance.
-
 
 ## <h2 align="center"><span style="color:#005A8B"> 🟦 What’s This Project About?
 
